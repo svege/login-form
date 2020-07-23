@@ -5,6 +5,8 @@
 username: john  
 password: 12345
 
+Запуск `npm start`
+
 ## Описание
 
 * форма входа;
